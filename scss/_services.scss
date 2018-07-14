@@ -1,0 +1,25 @@
+// Styling for the services section
+#services{
+  background-color: #fafafa;
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
+
+.card{
+  color:$primary;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+  margin:10px;
+}
+}
+
+#about{
+  background-color: white;
+  text-align: justify
+}
+
+#home{
+  padding:50px 0px 0px 0px;
+}
